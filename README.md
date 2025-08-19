@@ -1,2 +1,2 @@
-# Mongolia-Name-Picker
+# Mongolian-Name-Picker
 Хүүхэддээ нэр өгөх гээд олохгүй байна уу?
